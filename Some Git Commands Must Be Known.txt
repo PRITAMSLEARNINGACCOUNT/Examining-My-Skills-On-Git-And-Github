@@ -35,3 +35,5 @@ git status -s=Gives Short Details Of Files.
 git remote set-url "Remote Repository Name" "New Repository Link"=Replaces A Repository Link With A Different Link.
 git push=It Pushes The Current Branch Which Is Checked Out Already.
 git push "Remote Name" "Branch Name"=It Pushes A Branch Separately Which Is Available.
+git clone "Repository Link" "Folder Name"=It Clones A Repository Into A Folder Specified
+git clone "Repository Link"=It Clones A Repository Into The Current Folder Where Git Bash Is Opened.
