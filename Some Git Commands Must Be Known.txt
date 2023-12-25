@@ -27,4 +27,5 @@ git diff "File Name"=Shows The Difference Between Previous File And Modified Fil
 git diff =Shows The Difference Between Before Changes And After Changes(Specifically Shows The Changes Or Modifications n Every File)
 git reset "File Name"=Reset The File From Staging Area(Helps To Unstage A File).
 git checkout "File Name"=Reset The Changed File To Previous State.
-git checkout .=Reset Every Changed File To Previous Unchanged State.  
+git checkout .=Reset Every Changed File To Previous Unchanged State.
+git remote rm "Remote Name"=This Deletes Every Remote.
