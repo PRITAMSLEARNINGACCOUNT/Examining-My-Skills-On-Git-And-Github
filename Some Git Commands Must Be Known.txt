@@ -32,3 +32,6 @@ git push origin --delete "Branch Name"=Deletes A Branch From Remote Repository
 git checkout -f=Discard Changes Of Every Modified File
 git rm "File Name"=Deletes The File From Working Directory As Well As From Staged Area.
 git status -s=Gives Short Details Of Files.
+git remote set-url "Remote Repository Name" "New Repository Link"=Replaces A Repository Link With A Different Link.
+git push=It Pushes The Current Branch Which Is Checked Out Already.
+git push "Remote Name" "Branch Name"=It Pushes A Branch Separately Which Is Available.
