@@ -1,0 +1,7 @@
+pwd=Present Working Directory
+ls=List Directory
+cd=Change Directory
+git config --global user.name "pritamstech"=Set Up The Username
+git config --global user.email "pritamstech@hotmail.com"=Set Up The email
+git config user.name=Gives The Username
+git config user.email=Gives The email

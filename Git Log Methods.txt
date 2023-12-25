@@ -1,0 +1,14 @@
+Deep Diving Git Log
+git log -p=Shows What Are things Removed & Added In A Git Repository.
+git log -p -'Number Of Commits You Want To See'=Shows What Are things Removed & Added In A Git Repository According To The Number Of Commits You Want To See.
+git log --stat=Shows Every Detail's Of A Particular Commit.
+git log --pretty=oneline=Shows A Commit In One Line.
+git log --pretty=short=Shows A Commit Shortly.
+git log --pretty=full=Shows A Commit Shortly But More Than Short Because It Shows Author & Who Mades Commit While Short Shows Only Author.
+Filtering Gitlogs
+git log --since=Number Of Days/Months/Years.Days/Months/Years=Shows Commits Within The Duration.
+git log --pretty:format 'Formating String'=Shows A Commit According To The Formating.
+Formating Strings-->%h=Denotes Abbrivated Hash,%an=The Name Of The Author,%ae=The Email Of The Author
+(For More Information Visit https://git-scm.com/docs/git-log)
+Ammending Commit
+git commit --ammend=Open The Editor With First Commit On Which We Can Ammend Our Commit.

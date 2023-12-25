@@ -1,0 +1,2 @@
+i=For Inserting Something
+esc : wq=For Successfully Write The Commit Message And Quit The Editor.

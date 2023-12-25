@@ -1,0 +1,3 @@
+git DirectCommit "Enter The Commit Message"=It Will Skip The Staging Area And Directly Commit The Modified Files
+git Unstage "The File Name You Want To Unstage"=It Unstages Files/Restore Files From Staging Area.
+git Push "Repository Name" Branch Name=Pushed Commits To The Remotely

@@ -1,0 +1,3 @@
+rm -rf .git=Deletes Everything Including The Git Folder Itself
+git clone (Link Of The Git Repository)=Clone A Git Repository From A Specific Link.
+Q=Quit Of The Process Which Is Currently Running
