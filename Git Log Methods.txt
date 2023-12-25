@@ -1,6 +1,6 @@
 Deep Diving Git Log
 git log -p=Shows What Are things Removed & Added In A Git Repository.
-git log -p -'Number Of Commits You Want To See'=Shows What Are things Removed & Added In A Git Repository According To The Number Of Commits You Want To See.
+git log -p -'Number Of Commits You Want To See From End'=Shows What Are things Removed & Added In A Git Repository According To The Number Of Commits You Want To See.
 git log --stat=Shows Every Detail's Of A Particular Commit.
 git log --pretty=oneline=Shows A Commit In One Line.
 git log --pretty=short=Shows A Commit Shortly.
