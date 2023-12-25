@@ -30,3 +30,4 @@ git checkout "File Name"=Reset The Changed File To Previous State.
 git checkout .=Reset Every Changed File To Previous Unchanged State.
 git remote rm "Remote Name"=This Deletes Every Remote.
 git push origin --delete "Branch Name"=Deletes A Branch From Remote Repository
+git checkout -f=Discard Changes Of Every Modified File
