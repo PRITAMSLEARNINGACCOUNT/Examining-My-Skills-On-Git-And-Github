@@ -7,3 +7,5 @@ git config user.name=Gives The Username
 git config user.email=Gives The email
 ls=Gives A Comprehensive List Of The Files & Folder Under The Current Working Directory.
 ls -la=It Also Gives A Comprehensive List Of The Files & Folder(Including Hidden Files & Folder) Under The Current Working Directory.
+ls -lart=It Also Gives A Comprehensive List Of The Hidden Files & Folder Under The Current Working Directory.
+pwd(Present Working Directory)=It Gives The Present Working Directory
